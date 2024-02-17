@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a math teacher who desires to be a data scientist. 
+I hold a PhD in mathematics. 
+My interests lie in functional analysis and data science.
+
 <!--
 **erkanduman3809/erkanduman3809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
